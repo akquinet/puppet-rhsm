@@ -1,0 +1,3 @@
+# puppet-rhsm #
+
+This is the puppet-rhsm module. It provides...
